@@ -24,6 +24,9 @@
 - rsync -av --delete /home/nataliya_pischuk/ /tmp/backup >> /home/nataliya_pischuk/Documents/cron.log
 
 Скрин crontab
+
 ![alt text](img/crontab.JPG)
+
 Скрин логов
+
 ![alt text](img/log.JPG)
