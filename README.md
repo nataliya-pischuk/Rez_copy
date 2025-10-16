@@ -7,7 +7,7 @@
 
 ### Решение
 
-
+![alt text](img/1.JPG)
 
 ### Задание 2
 - Написать скрипт и настроить задачу на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron.
@@ -23,5 +23,6 @@
 rsync -av --delete /home/nataliya_pischuk/ /tmp/backup >> /home/nataliya_pischuk/Documents/cron.log
 
 Скрин crontab
-
+![alt text](img/crontab.JPG)
 Скрин логов
+![alt text](img/log.JPG)
